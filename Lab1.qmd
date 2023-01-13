@@ -1,0 +1,10 @@
+---
+title: "SDS192 Lab 1"
+author: "WRITE YOUR NAME HERE"
+output:
+  html_document
+---
+
+1. ====DELETE THIS TEXT AND ADD YOUR NAME HERE.===
+2. Save the document by clicking the Save button above. 
+3. Return to Lab 1 instructions to learn how to commit and push you code. 
