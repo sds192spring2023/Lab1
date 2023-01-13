@@ -1,6 +1,6 @@
 # Lab 1: GitHub
 
-*Due Wednesday 9/14 at 9pm.*
+*Due Wednesday 2/8 at 9pm.*
 
 ## Why do we use GitHub in this course?
 
@@ -68,7 +68,7 @@ use_git_config(user.name = "USERNAMEHERE", user.email = "EMAILHERE")
 
 10. Click <a href="https://classroom.github.com/a/xmh96iNx">this link</a> to accept this assignment in our GitHub classroom. Then a private repository (repo) will be automatically created for you. It might take a few minutes. 
 
-11. Once the repo is created, copy and paste the "Clone" URL from the repo that was just created to your clipboard. It should look something like https://github.com/sds192fall2022/lab1-yourusername.git
+11. Once the repo is created, copy and paste the "Clone" URL from the repo that was just created to your clipboard. It should look something like https://github.com/sds192spring2023/lab1-yourusername.git
 
 12. Create a project in RStudio from this GitHub repo by following the instructions starting at 26 seconds of this video:
 
