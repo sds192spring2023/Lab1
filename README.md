@@ -84,9 +84,9 @@ use_git_config(user.name = "USERNAMEHERE", user.email = "EMAILHERE")
 
 <p><a href="https://vimeo.com/511805399">General Workflow: Push</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-
 **CONGRATULATIONS! You've completed our course infrastructure set-up!** 
 
+16. Fill out this week's reflections [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7sTBJ020sZbb4uNZ2avVAgLxHq68T5RhdKiydy5LaFxHHsg/viewform?usp=sf_link).
 
 ## Assessment
 
