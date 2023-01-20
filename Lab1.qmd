@@ -7,4 +7,5 @@ output:
 
 1. ====DELETE THIS TEXT AND ADD YOUR NAME HERE.===
 2. Save the document by clicking the Save button above. 
-3. Return to Lab 1 instructions to learn how to commit and push you code. 
+3. Return to Lab 1 instructions to learn how to commit and push you code.
+4. Fill out this week's reflections Google form to receive credit.
