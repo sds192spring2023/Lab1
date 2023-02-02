@@ -40,7 +40,9 @@ Below are instructions for setting up our course environment. It's important tha
 
 5. In the last step you clicked the 'Terminal' tab at the bottom of your screen. Go to that same section of your screen and click the 'Console' tab.
 
-6. If you are configuring git for the first time (most of you will be), copy and paste the following into your console:
+6. Follow the instruction 6.1 or the instruction 6.2 to configure git: 
+
+6.1 If you are configuring git for the first time (most of you will be), copy and paste the following into your console:
 
 ```
 install.packages("usethis")
@@ -52,41 +54,41 @@ After you've entered this, you should copy and paste the following into your con
 use_git_config(user.name = "USERNAMEHERE", user.email = "EMAILHERE")
 ```
 
-7. If you've configured git on your computer before, you can edit your git config by following these instructions: 
+6.2 If you've configured git on your computer before, you can edit your git config by following these instructions: 
 
 <p><a href="https://vimeo.com/511798861">Edit gitconfig file</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-8. Create a personal access token in GitHub by following these instructions. **Set the expiration date to 120 days from now**: 
+7. Create a personal access token in GitHub by following these instructions. **Set the expiration date to 120 days from now**: 
 
 <p><a href="https://vimeo.com/511801645">Create a Personal Access Token (PAT) on GitHub</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-9. Store your personal access token by following these instructions: 
+8. Store your personal access token by following these instructions: 
 
 <p><a href="https://vimeo.com/511803103">Store Personal Access Token to Connect RStudio and GitHub</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 **CONGRATULATIONS! You've configured GitHub to connect with RStudio! Now onto assignment submission practice.** 
 
-10. Click <a href="https://classroom.github.com/a/9jhk7oQu">this link</a> to accept this assignment in our GitHub classroom. Then a private repository (repo) will be automatically created for you. It might take a few minutes. 
+9. Click <a href="https://classroom.github.com/a/9jhk7oQu">this link</a> to accept this assignment in our GitHub classroom. Then a private repository (repo) will be automatically created for you. It might take a few minutes. 
 
-11. Once the repo is created, copy and paste the "Clone" URL from the repo that was just created to your clipboard. It should look something like https://github.com/sds192spring2023/lab1-yourusername.git
+10. Once the repo is created, copy and paste the "Clone" URL from the repo that was just created to your clipboard. It should look something like https://github.com/sds192spring2023/lab1-yourusername.git
 
-12. Create a project in RStudio from this GitHub repo by following the instructions starting at 26 seconds of this video:
+11. Create a project in RStudio from the GitHub repo that was just created by following the instructions starting at 26 seconds of this video:
 
 <p><a href="https://vimeo.com/511804881">How to Connect RStudio Projects with GitHub Repositories: GitHub First</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-13. Open the Lab1.qmd file. Follow the instruction in the file. 
+12. Open the Lab1.qmd file from the Files tab in RStudio. Follow the instruction in the file. 
 
-14. When the file instruction tells you to commit your code, follow the instructions in this video starting at 14 seconds: 
+13. When the file instruction tells you to commit your code, follow the instructions in this video starting at 14 seconds: 
 
 <p><a href="https://vimeo.com/511800674">Make a Commit and View More History</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-15. Push your code to GitHub by following the instructions in this video starting at 27 seconds:
+14. Push your code to GitHub by following the instructions in this video starting at 27 seconds:
 
 <p><a href="https://vimeo.com/511805399">General Workflow: Push</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 **CONGRATULATIONS! You've completed our course infrastructure set-up!** 
 
-16. Fill out this week's reflections [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7sTBJ020sZbb4uNZ2avVAgLxHq68T5RhdKiydy5LaFxHHsg/viewform?usp=sf_link).
+15. Fill out this week's reflections [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7sTBJ020sZbb4uNZ2avVAgLxHq68T5RhdKiydy5LaFxHHsg/viewform?usp=sf_link).
 
 ## Assessment
 
