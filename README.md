@@ -143,7 +143,7 @@ Try copying and pasting the `install.packages("usethis")` code into your console
 
 ### I’m getting an error message that rlang is not installed. 
 
-In your console type `install.packages("rlang")`.
+In your console type `install.packages("rlang")`. Then try again.
 
 ### I'm getting the following error when I try to set my git credentials:
 
@@ -202,7 +202,7 @@ You'll see the following message:
 3: See the password / token
 ```
 
-Click 2. Then enter the personal access token you created in step 9. You should be able to create a project after this. 
+Click 2. Then enter the personal access token you created in step 7. You should be able to create a project after this. 
 
 ### When I try to create a new project via File>New Project>Version Control>Git, I'm getting the error: Git was not detected on the system path.
 
