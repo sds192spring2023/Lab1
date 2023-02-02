@@ -143,7 +143,7 @@ Try copying and pasting the `install.packages("usethis")` code into your console
 
 ### I’m getting an error message that rlang is not installed. 
 
-In your console type `install.packages("rlang")`. Then re-try Step 7. 
+In your console type `install.packages("rlang")`.
 
 ### I'm getting the following error when I try to set my git credentials:
 
