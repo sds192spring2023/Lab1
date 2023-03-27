@@ -30,8 +30,8 @@ Below are instructions for setting up our course environment. It's important tha
 
 4. Follow instructions to ensure git is installed: 
 
-`which git` into the Terminal if you are on MacOS
-`where git` into the Terminal if you are on Windows
+<p>`which git` into the Terminal if you are on MacOS</p>
+<p>`where git` into the Terminal if you are on Windows</p>
 
 4.1 If git is installed, go to Step 5.
 
