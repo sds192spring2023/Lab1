@@ -28,9 +28,10 @@ Below are instructions for setting up our course environment. It's important tha
 
 **CONGRATULATIONS! You've installed all of the software needed for this course. Now onto configuration.** 
 
-4. Follow instructions in this video to ensure git is installed: 
+4. Follow instructions to ensure git is installed: 
 
-<p><a href="https://vimeo.com/511798611">Verify Git Installation</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+`which git` into the Terminal if you are on MacOS
+`where git` into the Terminal if you are on Windows
 
 4.1 If git is installed, go to Step 5.
 
@@ -54,17 +55,19 @@ After you've entered this, you should copy and paste the following into your con
 use_git_config(user.name = "USERNAMEHERE", user.email = "EMAILHERE")
 ```
 
-6.2 If you've configured git on your computer before, you can edit your git config by following these instructions: 
+6.2 If you've configured git on your computer before, you can edit your git config by following the instruction: 
 
-<p><a href="https://vimeo.com/511798861">Edit gitconfig file</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+```
+edit_git_config()
+```
 
 7. Create a personal access token in GitHub by following these instructions. **Set the expiration date to 120 days from now**: 
 
-<p><a href="https://vimeo.com/511801645">Create a Personal Access Token (PAT) on GitHub</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">Create a Personal Access Token (PAT) on GitHub</a>.</p>
 
 8. Store your personal access token by following these instructions: 
 
-<p><a href="https://vimeo.com/511803103">Store Personal Access Token to Connect RStudio and GitHub</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://happygitwithr.com/https-pat.html">Store Personal Access Token to Connect RStudio and GitHub</a> in <a href="https://happygitwithr.com/https-pat.html">chapter 9: 9.1 TL;DR</a> of *Happy Git and GitHub for the useR*.</p>
 
 **CONGRATULATIONS! You've configured GitHub to connect with RStudio! Now onto assignment submission practice.** 
 
